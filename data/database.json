@@ -74,6 +74,50 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "luoYS4NVU",
+      "uuid": "6e9d053f-a2c2-44d1-ab8e-281bfcbf5c00",
+      "firstName": "rita",
+      "lastName": "jdsjdsj",
+      "username": "Rita1",
+      "password": "$2a$10$qZJ/0C/rS4VIgmIZ2ppUCuvxekcFKIak3FcxxQJm5shpHZOrkqmcu",
+      "balance": 0,
+      "createdAt": "2025-07-02T22:16:15.028Z",
+      "modifiedAt": "2025-07-02T22:16:15.028Z"
+    },
+    {
+      "id": "NG8vyeg-D",
+      "uuid": "11ac7e48-23f2-4eba-8556-d4f68d3402e1",
+      "firstName": "Rita",
+      "lastName": "Rodrigues",
+      "username": "Ritaa",
+      "password": "$2a$10$J8XohXnqD0Swek1.DXl8Be5.APerVF8c3J5Zu2jipqCIMoCKNdime",
+      "balance": 0,
+      "createdAt": "2025-07-02T22:41:43.476Z",
+      "modifiedAt": "2025-07-02T22:41:43.476Z"
+    },
+    {
+      "id": "HCpfIEpo4",
+      "uuid": "80ddb1cd-d2b6-45fb-8e26-2f9b99b2f9e0",
+      "firstName": "Rita",
+      "lastName": "Rodrigues",
+      "username": "Ritaa",
+      "password": "$2a$10$KzJEW3PIITxl5haBDqNqOeoISZ399H36Wkp08LQT/eRUjvJl7T85q",
+      "balance": 0,
+      "createdAt": "2025-07-02T22:42:23.238Z",
+      "modifiedAt": "2025-07-02T22:42:23.238Z"
+    },
+    {
+      "id": "_HrBUeCh-",
+      "uuid": "b3e57091-14b0-4a21-9400-e40a0fcef254",
+      "firstName": "Rita",
+      "lastName": "Rodrigues",
+      "username": "Ritaa",
+      "password": "$2a$10$1LF8cE4bpDWftTPq6Ageg.15SM9QW1rbXMwbNzUA5Ea/GG/IYeBMe",
+      "balance": 0,
+      "createdAt": "2025-07-02T22:49:23.810Z",
+      "modifiedAt": "2025-07-02T22:49:23.810Z"
     }
   ],
   "contacts": [
@@ -253,6 +297,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "uY8MJVIpw",
+      "uuid": "1c5be46f-f623-4c28-af7f-400ac231006d",
+      "userId": "luoYS4NVU",
+      "bankName": "Gaga Bank",
+      "accountNumber": "16166161616",
+      "routingNumber": "151515555",
+      "isDeleted": false,
+      "createdAt": "2025-07-02T22:16:57.176Z",
+      "modifiedAt": "2025-07-02T22:16:57.176Z"
     }
   ],
   "transactions": [
