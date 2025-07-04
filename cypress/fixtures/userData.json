@@ -1,24 +1,27 @@
 {
     "userSuccess": {
-        "username": "Rita1",
-        "password": "1234"
+      "username": "emydio",
+      "password": "1234"
     },
-    "userFail": {
-        "username": "Teste Fail",
-        "password": "Fail123"
+     "userFail": {
+      "username": "Teste Fail",
+      "password": "Fail123"
     },
-      "newUserSuccess": {
-        "firstName": "Rita",
-        "lastName": "Rodrigues",
-        "username": "Ritaa",
-        "password": "Success123",
-        "confirmPassword": "Success123"
+     "newUserSuccess": {
+      "firstName": "Rita",
+      "lastName": "Rodrigues",
+      "username": "Ritaa",
+      "password": "Success123",
+      "confirmPassword": "Success123"
     },
-      "newUserFail": {
-        "firstName": "Rita",
-        "lastName": "Rodrigues",
-        "username": "RitaStar",
-        "password": "Success123",
-        "confirmPassword": "14545423"
-    }
+     "newUserFail": {
+      "firstName": "Rita",
+      "lastName": "Rodrigues",
+      "username": "RitaStar",
+      "password": "Success123",
+      "confirmPassword": "14545423"
+    },
+    "contactName": {
+      "contact": "Lia Rosenbaum"
+    } 
 }
